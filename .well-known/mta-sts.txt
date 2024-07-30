@@ -1,4 +1,7 @@
 version: STSv1
 mode: testing
-mx: 
+mx: mx1.mtaroutes.com
+mx: mx2.mtaroutes.com
+mx: mx3.mtaroutes.com
+mx: mx4.mtaroutes.com 
 max_age: 604800
